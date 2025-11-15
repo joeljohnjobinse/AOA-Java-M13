@@ -30,18 +30,14 @@ Note:
 ---
 
 ## Program:
+```
 /*
 Program to implement N-Queens (Backtracking Approach)
 Developed by: Joel John Jobinse
 Register Number: 212223240062
 */
 
-(Write your Java implementation here — place the full Java code for the N-Queens backtracking solution. 
-Input: single integer N (1 to 4). 
-Output: either the N×N binary matrix with 1s marking queen positions, or the exact string:
-Solution does not exist
-)
-
+```
 ---
 
 ## Output:
