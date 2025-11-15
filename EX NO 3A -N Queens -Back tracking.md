@@ -45,4 +45,4 @@ Register Number: 212223240062
 ---
 
 ## Result:
-The program implements the N-Queens problem using backtracking. Place your Java code into the Program section above and run with N in [1,4] to verify output.
+The program implements the N-Queens problem using backtracking.
