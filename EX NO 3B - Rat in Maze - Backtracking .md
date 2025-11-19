@@ -30,8 +30,8 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 ```
 /*
 Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138 
+Developed by: JOEL JOHN JOBINSE
+Register Number: 212223240062
 */
 import java.util.*;
 
